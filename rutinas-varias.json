@@ -1,0 +1,294 @@
+[
+  {
+    "nombre": "Rutina Torso",
+    "ejercicios": [
+      {
+        "nombre": "Press de banca",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Fuerza y tamaño en el pecho"
+      },
+      {
+        "nombre": "Remo con barra",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Desarrollo de la espalda"
+      },
+      {
+        "nombre": "Press militar",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Fuerza y tamaño en los hombros"
+      },
+      {
+        "nombre": "Pull-ups",
+        "series": 3,
+        "repeticiones": 8,
+        "objetivo": "Desarrollo de la espalda y bíceps"
+      }
+    ]
+  },
+  {
+    "nombre": "Rutina Piernas",
+    "ejercicios": [
+      {
+        "nombre": "Sentadillas",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Fuerza y tamaño en las piernas"
+      },
+      {
+        "nombre": "Peso muerto",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Desarrollo completo del cuerpo"
+      },
+      {
+        "nombre": "Prensa de piernas",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Tamaño en las piernas"
+      },
+      {
+        "nombre": "Curl de piernas",
+        "series": 3,
+        "repeticiones": 12,
+        "objetivo": "Desarrollo de los isquiotibiales"
+      }
+    ]
+  },
+  [
+    {
+      "nombre": "Rutina Torso",
+      "ejercicios": [
+        {
+          "nombre": "Press de banca",
+          "series": 4,
+          "repeticiones": 8,
+          "objetivo": "Fuerza y tamaño en el pecho"
+        },
+        {
+          "nombre": "Remo con barra",
+          "series": 4,
+          "repeticiones": 8,
+          "objetivo": "Desarrollo de la espalda"
+        },
+        {
+          "nombre": "Press militar",
+          "series": 4,
+          "repeticiones": 10,
+          "objetivo": "Fuerza y tamaño en los hombros"
+        },
+        {
+          "nombre": "Pull-ups",
+          "series": 3,
+          "repeticiones": 8,
+          "objetivo": "Desarrollo de la espalda y bíceps"
+        }
+      ]
+    },
+    {
+      "nombre": "Rutina Piernas",
+      "ejercicios": [
+        {
+          "nombre": "Sentadillas",
+          "series": 4,
+          "repeticiones": 8,
+          "objetivo": "Fuerza y tamaño en las piernas"
+        },
+        {
+          "nombre": "Peso muerto",
+          "series": 4,
+          "repeticiones": 8,
+          "objetivo": "Desarrollo completo del cuerpo"
+        },
+        {
+          "nombre": "Prensa de piernas",
+          "series": 4,
+          "repeticiones": 10,
+          "objetivo": "Tamaño en las piernas"
+        },
+        {
+          "nombre": "Curl de piernas",
+          "series": 3,
+          "repeticiones": 12,
+          "objetivo": "Desarrollo de los isquiotibiales"
+        }
+      ]
+    }
+  ],
+  {
+    "nombre": "Rutina Espalda y Bíceps",
+    "ejercicios": [
+      {
+        "nombre": "Dominadas",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Fuerza y tamaño en la espalda"
+      },
+      {
+        "nombre": "Remo con mancuernas",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Desarrollo de la espalda"
+      },
+      {
+        "nombre": "Curl con barra",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Fuerza en los bíceps"
+      },
+      {
+        "nombre": "Curl con mancuernas",
+        "series": 3,
+        "repeticiones": 12,
+        "objetivo": "Tamaño en los bíceps"
+      }
+    ]
+  },
+  {
+    "nombre": "Rutina Hombros y Trapecios",
+    "ejercicios": [
+      {
+        "nombre": "Press militar sentado",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Fuerza y tamaño en los hombros"
+      },
+      {
+        "nombre": "Elevaciones laterales",
+        "series": 4,
+        "repeticiones": 12,
+        "objetivo": "Desarrollo del deltoide medio"
+      },
+      {
+        "nombre": "Encogimientos con barra",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Tamaño en los trapecios"
+      },
+      {
+        "nombre": "Elevaciones frontales",
+        "series": 3,
+        "repeticiones": 12,
+        "objetivo": "Desarrollo del deltoide anterior"
+      }
+    ]
+  },
+  {
+    "nombre": "Rutina Piernas (Cuádriceps)",
+    "ejercicios": [
+      {
+        "nombre": "Sentadilla frontal",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Fuerza y tamaño en los cuádriceps"
+      },
+      {
+        "nombre": "Prensa de piernas",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Tamaño en los cuádriceps"
+      },
+      {
+        "nombre": "Extensiones de piernas",
+        "series": 4,
+        "repeticiones": 12,
+        "objetivo": "Desarrollo de los cuádriceps"
+      },
+      {
+        "nombre": "Estocadas",
+        "series": 3,
+        "repeticiones": 12,
+        "objetivo": "Desarrollo completo de las piernas"
+      }
+    ]
+  },
+  {
+    "nombre": "Rutina Piernas (Isquiotibiales y Glúteos)",
+    "ejercicios": [
+      {
+        "nombre": "Peso muerto rumano",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Fuerza y tamaño en los isquiotibiales"
+      },
+      {
+        "nombre": "Curl de piernas",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Desarrollo de los isquiotibiales"
+      },
+      {
+        "nombre": "Puente de glúteos",
+        "series": 4,
+        "repeticiones": 12,
+        "objetivo": "Fuerza y tamaño en los glúteos"
+      },
+      {
+        "nombre": "Hip thrust",
+        "series": 3,
+        "repeticiones": 12,
+        "objetivo": "Desarrollo completo de los glúteos"
+      }
+    ]
+  },
+  {
+    "nombre": "Rutina Full Body",
+    "ejercicios": [
+      {
+        "nombre": "Sentadillas",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Fuerza y tamaño en las piernas"
+      },
+      {
+        "nombre": "Press de banca",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Fuerza y tamaño en el pecho"
+      },
+      {
+        "nombre": "Remo con barra",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Desarrollo de la espalda"
+      },
+      {
+        "nombre": "Press militar",
+        "series": 3,
+        "repeticiones": 10,
+        "objetivo": "Fuerza y tamaño en los hombros"
+      }
+    ]
+  },
+  {
+    "nombre": "Rutina Espalda y Bíceps (Avanzado)",
+    "ejercicios": [
+      {
+        "nombre": "Remo con barra T",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Fuerza y tamaño en la espalda"
+      },
+      {
+        "nombre": "Pull-ups con peso",
+        "series": 4,
+        "repeticiones": 8,
+        "objetivo": "Desarrollo de la espalda y bíceps"
+      },
+      {
+        "nombre": "Curl predicador",
+        "series": 4,
+        "repeticiones": 10,
+        "objetivo": "Fuerza en los bíceps"
+      },
+      {
+        "nombre": "Curl martillo",
+        "series": 3,
+        "repeticiones": 12,
+        "objetivo": "Tamaño en los bíceps y braquiorradial"
+      }
+    ]
+  }
+]
