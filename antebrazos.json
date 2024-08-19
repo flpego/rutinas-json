@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Curl de muñeca con barra",
+      "grupo_muscular": "Antebrazos",
+      "descripcion": "Ejercicio de aislamiento que trabaja los músculos flexores del antebrazo.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Barra, banco"
+    },
+    {
+      "nombre": "Curl inverso con barra",
+      "grupo_muscular": "Antebrazos",
+      "descripcion": "Ejercicio que trabaja tanto los bíceps como los músculos extensores del antebrazo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra"
+    },
+    {
+      "nombre": "Curl de muñeca inverso con barra",
+      "grupo_muscular": "Antebrazos",
+      "descripcion": "Ejercicio de aislamiento que trabaja los músculos extensores del antebrazo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra, banco"
+    },
+    {
+      "nombre": "Curl de muñeca con mancuernas",
+      "grupo_muscular": "Antebrazos",
+      "descripcion": "Variante del curl de muñeca con barra que permite un rango de movimiento individual para cada mano.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Mancuernas, banco"
+    },
+    {
+      "nombre": "Farmer's walk",
+      "grupo_muscular": "Antebrazos",
+      "descripcion": "Ejercicio funcional que trabaja los antebrazos, mejorando la fuerza de agarre y la resistencia.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuernas o pesas"
+    },
+    {
+      "nombre": "Pronación y supinación de muñeca",
+      "grupo_muscular": "Antebrazos",
+      "descripcion": "Ejercicio de aislamiento que fortalece los músculos responsables de la rotación del antebrazo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuernas"
+    },
+    {
+      "nombre": "Pull-up de agarre inverso",
+      "grupo_muscular": "Antebrazos",
+      "descripcion": "Variante de dominadas que enfatiza el trabajo en los antebrazos y bíceps.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Barra de dominadas"
+    },
+    {
+      "nombre": "Rodillo para antebrazos",
+      "grupo_muscular": "Antebrazos",
+      "descripcion": "Ejercicio que trabaja los músculos del antebrazo y mejora la fuerza de agarre.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Rodillo con cuerda y peso"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+    "exercises": [
+      {
+        "nombre": "Press de banca",
+        "grupo_muscular": "Pectorales",
+        "descripcion": "Ejercicio compuesto que trabaja principalmente los pectorales, pero también involucra los hombros y tríceps.",
+        "nivel_dificultad": "Intermedio",
+        "equipo_necesario": "Barra, banco"
+      },
+      {
+        "nombre": "Press de banca inclinado",
+        "grupo_muscular": "Pectorales",
+        "descripcion": "Variante del press de banca que se enfoca en la parte superior del pecho.",
+        "nivel_dificultad": "Intermedio",
+        "equipo_necesario": "Barra, banco inclinado"
+      },
+      {
+        "nombre": "Aperturas con mancuernas",
+        "grupo_muscular": "Pectorales",
+        "descripcion": "Ejercicio de aislamiento que se centra en estirar y contraer los pectorales.",
+        "nivel_dificultad": "Principiante",
+        "equipo_necesario": "Mancuernas, banco"
+      },
+      {
+        "nombre": "Fondos en paralelas",
+        "grupo_muscular": "Pectorales",
+        "descripcion": "Ejercicio de peso corporal que trabaja principalmente los pectorales inferiores y tríceps.",
+        "nivel_dificultad": "Avanzado",
+        "equipo_necesario": "Barras paralelas"
+      },
+      {
+        "nombre": "Press con mancuernas",
+        "grupo_muscular": "Pectorales",
+        "descripcion": "Ejercicio similar al press de banca con barra, pero permite un rango de movimiento más amplio.",
+        "nivel_dificultad": "Intermedio",
+        "equipo_necesario": "Mancuernas, banco"
+      },
+      {
+        "nombre": "Press de pecho en máquina",
+        "grupo_muscular": "Pectorales",
+        "descripcion": "Ejercicio guiado que permite concentrarse en el movimiento sin preocuparse por la estabilidad.",
+        "nivel_dificultad": "Principiante",
+        "equipo_necesario": "Máquina de press de pecho"
+      },
+      {
+        "nombre": "Crossover en poleas",
+        "grupo_muscular": "Pectorales",
+        "descripcion": "Ejercicio de aislamiento que trabaja los pectorales a través de un movimiento de cruce de cables.",
+        "nivel_dificultad": "Intermedio",
+        "equipo_necesario": "Poleas"
+      },
+      {
+        "nombre": "Flexiones de pecho",
+        "grupo_muscular": "Pectorales",
+        "descripcion": "Ejercicio de peso corporal que trabaja los pectorales, tríceps y deltoides anteriores.",
+        "nivel_dificultad": "Principiante",
+        "equipo_necesario": "Ninguno"
+      }
+    ]
+  }
+  

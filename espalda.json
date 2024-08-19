@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Dominadas",
+      "grupo_muscular": "Espalda",
+      "descripcion": "Ejercicio de peso corporal que trabaja principalmente los dorsales, además de los bíceps y la parte superior de la espalda.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Barra de dominadas"
+    },
+    {
+      "nombre": "Remo con barra",
+      "grupo_muscular": "Espalda",
+      "descripcion": "Ejercicio compuesto que trabaja la espalda media y baja, los dorsales y los bíceps.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra"
+    },
+    {
+      "nombre": "Remo con mancuernas",
+      "grupo_muscular": "Espalda",
+      "descripcion": "Variante del remo con barra que permite un rango de movimiento más amplio y trabaja de manera más aislada cada lado de la espalda.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuernas, banco"
+    },
+    {
+      "nombre": "Pullover con mancuerna",
+      "grupo_muscular": "Espalda",
+      "descripcion": "Ejercicio que trabaja los dorsales y el serrato anterior, además del pectoral mayor.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuerna, banco"
+    },
+    {
+      "nombre": "Peso muerto",
+      "grupo_muscular": "Espalda",
+      "descripcion": "Ejercicio compuesto que trabaja la espalda baja, los glúteos, los isquiotibiales y los dorsales.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Barra"
+    },
+    {
+      "nombre": "Jalón al pecho",
+      "grupo_muscular": "Espalda",
+      "descripcion": "Ejercicio en máquina que trabaja los dorsales y la parte superior de la espalda.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Máquina de polea alta"
+    },
+    {
+      "nombre": "Remo en polea baja",
+      "grupo_muscular": "Espalda",
+      "descripcion": "Ejercicio que trabaja principalmente la espalda media y baja, los dorsales y los bíceps.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Máquina de polea baja"
+    },
+    {
+      "nombre": "Hiperextensiones",
+      "grupo_muscular": "Espalda",
+      "descripcion": "Ejercicio que fortalece la espalda baja, los glúteos y los isquiotibiales.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Banco de hiperextensiones"
+    }
+  ]
+}

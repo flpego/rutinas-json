@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Elevación de talones de pie",
+      "grupo_muscular": "Gemelos",
+      "descripcion": "Ejercicio básico que trabaja los músculos de los gemelos, enfocado en el gastrocnemio.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Máquina de elevación de talones o barra"
+    },
+    {
+      "nombre": "Elevación de talones sentado",
+      "grupo_muscular": "Gemelos",
+      "descripcion": "Ejercicio que trabaja principalmente el sóleo, un músculo profundo de los gemelos.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Máquina de elevación de talones sentado"
+    },
+    {
+      "nombre": "Elevación de talones en máquina Smith",
+      "grupo_muscular": "Gemelos",
+      "descripcion": "Ejercicio que permite realizar elevaciones de talones con mayor seguridad y control de peso.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Máquina Smith"
+    },
+    {
+      "nombre": "Elevación de talones con mancuernas",
+      "grupo_muscular": "Gemelos",
+      "descripcion": "Ejercicio que trabaja los gemelos utilizando mancuernas para agregar resistencia.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuernas"
+    },
+    {
+      "nombre": "Elevación de talones en prensa",
+      "grupo_muscular": "Gemelos",
+      "descripcion": "Ejercicio que se realiza en la máquina de prensa, permitiendo un trabajo intenso de los gemelos.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Máquina de prensa"
+    },
+    {
+      "nombre": "Saltos de caja",
+      "grupo_muscular": "Gemelos",
+      "descripcion": "Ejercicio pliométrico que trabaja los gemelos, mejorando la explosividad y la fuerza.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Caja pliométrica"
+    },
+    {
+      "nombre": "Sprint en cuesta",
+      "grupo_muscular": "Gemelos",
+      "descripcion": "Ejercicio cardiovascular que trabaja los gemelos al correr en inclinación.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Ninguno o inclinación natural"
+    },
+    {
+      "nombre": "Saltos a la cuerda",
+      "grupo_muscular": "Gemelos",
+      "descripcion": "Ejercicio cardiovascular que trabaja los gemelos, mejorando la resistencia y la coordinación.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Cuerda para saltar"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Press militar con barra",
+      "grupo_muscular": "Deltoides",
+      "descripcion": "Ejercicio compuesto que trabaja principalmente los deltoides, pero también involucra los tríceps y la parte superior del pecho.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra, banco"
+    },
+    {
+      "nombre": "Press militar con mancuernas",
+      "grupo_muscular": "Deltoides",
+      "descripcion": "Variante del press militar que permite un rango de movimiento más amplio y trabaja de manera más equilibrada ambos hombros.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuernas, banco"
+    },
+    {
+      "nombre": "Elevaciones laterales",
+      "grupo_muscular": "Deltoides",
+      "descripcion": "Ejercicio de aislamiento que se centra en la porción lateral de los deltoides.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Mancuernas"
+    },
+    {
+      "nombre": "Elevaciones frontales",
+      "grupo_muscular": "Deltoides",
+      "descripcion": "Ejercicio de aislamiento que trabaja principalmente la porción anterior de los deltoides.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Mancuernas"
+    },
+    {
+      "nombre": "Pájaros con mancuernas",
+      "grupo_muscular": "Deltoides",
+      "descripcion": "Ejercicio de aislamiento que trabaja la porción posterior de los deltoides.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuernas, banco inclinado"
+    },
+    {
+      "nombre": "Press Arnold",
+      "grupo_muscular": "Deltoides",
+      "descripcion": "Variación del press militar que trabaja los deltoides de manera más completa debido al giro de las muñecas durante el movimiento.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Mancuernas"
+    },
+    {
+      "nombre": "Encogimientos de hombros",
+      "grupo_muscular": "Deltoides",
+      "descripcion": "Ejercicio que trabaja principalmente los trapecios, pero también involucra los deltoides superiores.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Barra o mancuernas"
+    },
+    {
+      "nombre": "Face pulls",
+      "grupo_muscular": "Deltoides",
+      "descripcion": "Ejercicio que trabaja principalmente la parte posterior de los deltoides y los músculos de la espalda alta.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Polea con cuerda"
+    }
+  ]
+}

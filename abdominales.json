@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Crunch abdominal",
+      "grupo_muscular": "Abdominales",
+      "descripcion": "Ejercicio básico para trabajar los músculos rectos abdominales.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Ninguno"
+    },
+    {
+      "nombre": "Plancha",
+      "grupo_muscular": "Abdominales",
+      "descripcion": "Ejercicio isométrico que trabaja el núcleo completo, incluyendo abdominales y lumbares.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Ninguno"
+    },
+    {
+      "nombre": "Levantamiento de piernas colgado",
+      "grupo_muscular": "Abdominales",
+      "descripcion": "Ejercicio avanzado que trabaja los abdominales inferiores y el núcleo.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Barra de dominadas"
+    },
+    {
+      "nombre": "Bicicleta abdominal",
+      "grupo_muscular": "Abdominales",
+      "descripcion": "Ejercicio que trabaja los abdominales rectos y oblicuos mediante un movimiento de pedaleo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Ninguno"
+    },
+    {
+      "nombre": "Elevación de piernas",
+      "grupo_muscular": "Abdominales",
+      "descripcion": "Ejercicio que trabaja los abdominales inferiores mediante la elevación controlada de las piernas.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Ninguno"
+    },
+    {
+      "nombre": "Plancha lateral",
+      "grupo_muscular": "Abdominales",
+      "descripcion": "Variante de la plancha que enfoca el trabajo en los oblicuos y el núcleo lateral.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Ninguno"
+    },
+    {
+      "nombre": "Russian twist",
+      "grupo_muscular": "Abdominales",
+      "descripcion": "Ejercicio que trabaja los oblicuos mediante un giro controlado del torso.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuerna o kettlebell"
+    },
+    {
+      "nombre": "Mountain climbers",
+      "grupo_muscular": "Abdominales",
+      "descripcion": "Ejercicio cardiovascular que también trabaja los abdominales mediante un movimiento de escalada en el suelo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Ninguno"
+    }
+  ]
+}

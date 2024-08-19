@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Extensiones de tríceps con cuerda",
+      "grupo_muscular": "Tríceps",
+      "descripcion": "Ejercicio en polea que trabaja las tres cabezas del tríceps, permitiendo un rango de movimiento completo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Polea alta con cuerda"
+    },
+    {
+      "nombre": "Fondos en paralelas",
+      "grupo_muscular": "Tríceps",
+      "descripcion": "Ejercicio de peso corporal que trabaja principalmente los tríceps, además del pecho y los hombros.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Barras paralelas"
+    },
+    {
+      "nombre": "Press francés",
+      "grupo_muscular": "Tríceps",
+      "descripcion": "Ejercicio de aislamiento que trabaja las tres cabezas del tríceps, ideal para ganar fuerza y masa.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra Z, banco"
+    },
+    {
+      "nombre": "Extensiones de tríceps sobre la cabeza",
+      "grupo_muscular": "Tríceps",
+      "descripcion": "Ejercicio que trabaja principalmente la cabeza larga del tríceps, permitiendo un estiramiento máximo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuerna o barra"
+    },
+    {
+      "nombre": "Patada de tríceps",
+      "grupo_muscular": "Tríceps",
+      "descripcion": "Ejercicio de aislamiento que se enfoca en la contracción del tríceps, ideal para definir y tonificar.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuerna, banco"
+    },
+    {
+      "nombre": "Press de banca con agarre cerrado",
+      "grupo_muscular": "Tríceps",
+      "descripcion": "Ejercicio compuesto que trabaja principalmente los tríceps, pero también involucra el pecho y los hombros.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra, banco"
+    },
+    {
+      "nombre": "Extensiones en polea baja",
+      "grupo_muscular": "Tríceps",
+      "descripcion": "Ejercicio en polea que permite un trabajo aislado del tríceps, manteniendo tensión constante.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Máquina de polea baja"
+    },
+    {
+      "nombre": "Flexiones con agarre cerrado",
+      "grupo_muscular": "Tríceps",
+      "descripcion": "Ejercicio de peso corporal que enfatiza el trabajo en los tríceps, además de los hombros y el pecho.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Ninguno"
+    }
+  ]
+}

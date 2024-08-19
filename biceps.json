@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Curl con barra",
+      "grupo_muscular": "Bíceps",
+      "descripcion": "Ejercicio básico para trabajar los bíceps, permitiendo levantar un peso mayor con ambas manos.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Barra"
+    },
+    {
+      "nombre": "Curl con mancuernas",
+      "grupo_muscular": "Bíceps",
+      "descripcion": "Variante del curl con barra que permite trabajar cada brazo de manera aislada.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Mancuernas"
+    },
+    {
+      "nombre": "Curl martillo",
+      "grupo_muscular": "Bíceps",
+      "descripcion": "Ejercicio que trabaja la cabeza larga del bíceps y el braquial, mejorando la fuerza y el tamaño del brazo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuernas"
+    },
+    {
+      "nombre": "Curl concentrado",
+      "grupo_muscular": "Bíceps",
+      "descripcion": "Ejercicio de aislamiento que se centra en la contracción máxima del bíceps.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuerna, banco"
+    },
+    {
+      "nombre": "Curl en predicador",
+      "grupo_muscular": "Bíceps",
+      "descripcion": "Ejercicio que aísla los bíceps eliminando la ayuda del balanceo del cuerpo.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra o mancuernas, banco predicador"
+    },
+    {
+      "nombre": "Curl en polea baja",
+      "grupo_muscular": "Bíceps",
+      "descripcion": "Ejercicio que mantiene la tensión constante en los bíceps durante todo el movimiento.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Máquina de polea baja"
+    },
+    {
+      "nombre": "Dominadas supinas",
+      "grupo_muscular": "Bíceps",
+      "descripcion": "Variante de dominadas que enfatiza el trabajo en los bíceps.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Barra de dominadas"
+    },
+    {
+      "nombre": "Curl con barra Z",
+      "grupo_muscular": "Bíceps",
+      "descripcion": "Ejercicio que reduce la tensión en las muñecas mientras trabaja los bíceps.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra Z"
+    }
+  ]
+}

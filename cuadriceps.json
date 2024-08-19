@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Sentadilla con barra",
+      "grupo_muscular": "Cuádriceps",
+      "descripcion": "Ejercicio compuesto que trabaja principalmente los cuádriceps, además de los glúteos y la espalda baja.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra, rack de sentadillas"
+    },
+    {
+      "nombre": "Prensa de piernas",
+      "grupo_muscular": "Cuádriceps",
+      "descripcion": "Ejercicio en máquina que permite trabajar los cuádriceps con un rango de movimiento controlado.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Máquina de prensa de piernas"
+    },
+    {
+      "nombre": "Sentadilla frontal",
+      "grupo_muscular": "Cuádriceps",
+      "descripcion": "Variante de la sentadilla que enfatiza más el trabajo en los cuádriceps.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Barra, rack de sentadillas"
+    },
+    {
+      "nombre": "Extensiones de piernas",
+      "grupo_muscular": "Cuádriceps",
+      "descripcion": "Ejercicio de aislamiento que trabaja específicamente los cuádriceps, ideal para definir y fortalecer.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Máquina de extensión de piernas"
+    },
+    {
+      "nombre": "Sentadilla búlgara",
+      "grupo_muscular": "Cuádriceps",
+      "descripcion": "Ejercicio unilateral que trabaja intensamente los cuádriceps y mejora el equilibrio.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Mancuernas, banco"
+    },
+    {
+      "nombre": "Zancadas con barra",
+      "grupo_muscular": "Cuádriceps",
+      "descripcion": "Ejercicio que trabaja los cuádriceps, glúteos y los isquiotibiales, mejorando la estabilidad y la fuerza de las piernas.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra"
+    },
+    {
+      "nombre": "Sentadilla Sissy",
+      "grupo_muscular": "Cuádriceps",
+      "descripcion": "Ejercicio que aísla los cuádriceps, manteniendo una postura vertical durante la sentadilla.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Ninguno o soporte para los pies"
+    },
+    {
+      "nombre": "Step-ups",
+      "grupo_muscular": "Cuádriceps",
+      "descripcion": "Ejercicio que trabaja los cuádriceps, glúteos y los isquiotibiales al subir y bajar de una plataforma elevada.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Banco o plataforma, mancuernas"
+    }
+  ]
+}

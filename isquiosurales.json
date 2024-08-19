@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "nombre": "Peso muerto rumano",
+      "grupo_muscular": "Isquiotibiales",
+      "descripcion": "Ejercicio compuesto que trabaja principalmente los isquiotibiales y glúteos, además de la espalda baja.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra"
+    },
+    {
+      "nombre": "Curl de piernas acostado",
+      "grupo_muscular": "Isquiotibiales",
+      "descripcion": "Ejercicio de aislamiento que trabaja específicamente los isquiotibiales.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Máquina de curl de piernas"
+    },
+    {
+      "nombre": "Peso muerto a una pierna",
+      "grupo_muscular": "Isquiotibiales",
+      "descripcion": "Ejercicio unilateral que mejora la fuerza, la estabilidad y el equilibrio de los isquiotibiales.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Mancuerna o barra"
+    },
+    {
+      "nombre": "Curl nórdico",
+      "grupo_muscular": "Isquiotibiales",
+      "descripcion": "Ejercicio avanzado de peso corporal que trabaja los isquiotibiales mediante un movimiento controlado hacia adelante.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Soporte para pies"
+    },
+    {
+      "nombre": "Buenos días",
+      "grupo_muscular": "Isquiotibiales",
+      "descripcion": "Ejercicio que trabaja los isquiotibiales, glúteos y la espalda baja a través de una flexión controlada de la cadera.",
+      "nivel_dificultad": "Intermedio",
+      "equipo_necesario": "Barra"
+    },
+    {
+      "nombre": "Curl de piernas sentado",
+      "grupo_muscular": "Isquiotibiales",
+      "descripcion": "Variante del curl de piernas que se realiza sentado, trabajando los isquiotibiales en un ángulo diferente.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Máquina de curl de piernas"
+    },
+    {
+      "nombre": "Peso muerto sumo",
+      "grupo_muscular": "Isquiotibiales",
+      "descripcion": "Variante del peso muerto que enfatiza el trabajo en los isquiotibiales y aductores, además de los glúteos.",
+      "nivel_dificultad": "Avanzado",
+      "equipo_necesario": "Barra"
+    },
+    {
+      "nombre": "Puente de glúteos",
+      "grupo_muscular": "Isquiotibiales",
+      "descripcion": "Ejercicio que trabaja los isquiotibiales y los glúteos mediante un levantamiento de cadera desde el suelo.",
+      "nivel_dificultad": "Principiante",
+      "equipo_necesario": "Ninguno o barra para mayor resistencia"
+    }
+  ]
+}
